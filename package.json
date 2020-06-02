@@ -1,0 +1,16 @@
+{
+  "name": "alfred-gen_31692d95-135a-407a-a624-971a0fec9e2d",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "filenamify-url": "^2.1.1",
+    "puppeteer": "^3.3.0"
+  }
+}
